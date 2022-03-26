@@ -13,6 +13,7 @@
 		0989868627EF917F004E9683 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0989868427EF917F004E9683 /* Main.storyboard */; };
 		0989868827EF9180004E9683 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0989868727EF9180004E9683 /* Assets.xcassets */; };
 		0989868B27EF9180004E9683 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0989868927EF9180004E9683 /* LaunchScreen.storyboard */; };
+		0989869427EF9789004E9683 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0989869327EF9789004E9683 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0989868727EF9180004E9683 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0989868A27EF9180004E9683 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0989868C27EF9180004E9683 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0989869327EF9789004E9683 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0989867E27EF917F004E9683 /* AppDelegate.swift */,
 				0989868027EF917F004E9683 /* SceneDelegate.swift */,
 				0989868227EF917F004E9683 /* ViewController.swift */,
+				0989869327EF9789004E9683 /* MapForItinerary.swift */,
 				0989868427EF917F004E9683 /* Main.storyboard */,
 				0989868727EF9180004E9683 /* Assets.xcassets */,
 				0989868927EF9180004E9683 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0989869427EF9789004E9683 /* MapForItinerary.swift in Sources */,
 				0989868327EF917F004E9683 /* ViewController.swift in Sources */,
 				0989867F27EF917F004E9683 /* AppDelegate.swift in Sources */,
 				0989868127EF917F004E9683 /* SceneDelegate.swift in Sources */,
